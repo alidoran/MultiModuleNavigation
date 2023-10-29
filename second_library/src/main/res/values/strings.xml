@@ -1,0 +1,4 @@
+<resources>
+    <string name="it_is_the_second_activity">It is the second Activity</string>
+    <string name="go_to_the_first_activity">Go to the First Activity</string>
+</resources>

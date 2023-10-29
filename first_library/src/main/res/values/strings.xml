@@ -1,0 +1,5 @@
+<resources>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="go_to_second_activity">Go to second Activity</string>
+    <string name="go_to_third_activity">Go to third Activity</string>
+</resources>

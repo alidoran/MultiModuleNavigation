@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiModule</string>
+    <string name="go_to_first_activity">go to first activity</string>
+</resources>
